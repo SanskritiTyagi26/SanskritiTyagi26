@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SanskritiTyagi26
-- 🔭 I’m currently working on Web Development projects.
+- 👋 Hi, I’m SanskritiTyagi
 - 🌱 I’m currently learning Reactjs.
+- 🔭 I’m currently working on Web Development projects.
 - 📫 Reach me on - sanskritityagi79@gmail.com
 - ⚡ Fun fact: Turning caffeine into code since forever!
 
