@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning Reactjs.
 - 🔭 I’m currently working on Web Development projects.
 - 📫 Reach me on - sanskritityagi79@gmail.com
+- 📲 Feel Free to Connect - https://www.linkedin.com/in/sanskriti-tyagi-/
 - ⚡ Fun fact: Turning caffeine into code since forever!
 
 
